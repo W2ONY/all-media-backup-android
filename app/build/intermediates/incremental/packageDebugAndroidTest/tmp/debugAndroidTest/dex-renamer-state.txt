@@ -1,0 +1,4 @@
+#Fri Feb 27 20:23:50 CST 2026
+base.0=/Users/wzony/Documents/vibcode/MediaBackup/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
